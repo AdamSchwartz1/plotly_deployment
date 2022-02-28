@@ -16,5 +16,3 @@ Here are a list of formatting options I added to my page:
 - Changed the background color and the color of all the graphs
 - Made the webpage mobile-responsive
 - Changed the paragraph text under the first header to bold font.
-
-test
